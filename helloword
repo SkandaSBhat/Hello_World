@@ -2,7 +2,8 @@
 {
 public static void main (String [] args)
 {
-System.out.println("Hello_World!");
+System.out.println("Hello_World!")
+;
 }
 }
 
@@ -16,4 +17,15 @@ int sum = a+b;
 System.out.println(sum);
 }
 
+}
+ 
+Class Multiple {
+
+public static void main (String [] args)
+{
+int a = 10;
+int b = 20;
+int mult = a*b;
+System.out.println(mult);
+}
 }
