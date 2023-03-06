@@ -29,3 +29,4 @@ int mult = a*b;
 System.out.println(mult);
 }
 }
+// iam deleting branch6 from github
